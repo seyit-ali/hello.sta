@@ -1,0 +1,2 @@
+# hello.sta
+for education
